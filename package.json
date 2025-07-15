@@ -1,8 +1,8 @@
 {
   "name": "com.ux.lean.cesium",
-  "version": "0.1.0-alpha+20250715.2",
-  "displayName": "UX Kit",
-  "description": "Unity Universal Toolkit for UX",
+  "version": "0.1.0-alpha+20250715.3",
+  "displayName": "UX Lean Cesium",
+  "description": "Unity LeanTouch Addon with Cesium for UX",
   "unity": "2021.3",
   "author": {
     "name": "Eos Wolfuardian",
