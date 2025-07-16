@@ -1,11 +1,15 @@
 {
   "name": "com.ux.lean.cesium",
-  "version": "0.1.0-alpha+20250715.3",
+  "version": "0.1.0-alpha+20250716.1",
   "displayName": "UX Lean Cesium",
   "description": "Unity LeanTouch Addon with Cesium for UX",
   "unity": "2021.3",
   "author": {
     "name": "Eos Wolfuardian",
     "email": "wolfuardian@gmail.com"
+  },
+    "dependencies": {
+    "com.ux.lean": "https://github.com/wolfuardian/ux.lean.git#main",
+    "com.cesium.unity": "1.16.2"
   }
 }
